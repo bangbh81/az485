@@ -1,0 +1,4 @@
+s2cCore.c:75:6:tskS2CCore	56	static
+s2cCore.c:161:6:tsksQSendTrigger	32	static
+s2cCore.c:184:6:tskeQSendTrigger	32	static
+s2cCore.c:203:6:tskLED	16	static
